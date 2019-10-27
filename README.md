@@ -1,3 +1,18 @@
+# Project Overview
+## Sign In Screen
+![SignIn](https://user-images.githubusercontent.com/12692788/67639811-1a1c7e00-f8fd-11e9-8b0f-48e4c509f123.jpg)
+
+## Register Screen
+![RegisterScreen](https://user-images.githubusercontent.com/12692788/67639819-2b658a80-f8fd-11e9-8e73-b6faadffb82f.jpg)
+
+## Using Web-App to Detect Faces
+![DetectFace1](https://user-images.githubusercontent.com/12692788/67639824-42a47800-f8fd-11e9-9aea-cf94a27e2084.jpg)
+![DetectFace2](https://user-images.githubusercontent.com/12692788/67639828-4c2de000-f8fd-11e9-8f4c-6eafb011b8dc.jpg)
+
+### Backend
+https://github.com/leonben2892/Face-Recognition-WebApp-BackEnd
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
